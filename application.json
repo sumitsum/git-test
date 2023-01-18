@@ -12,6 +12,9 @@
   "unpublishedCustomJSLibs": [
     {
       "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    },
+    {
+      "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
