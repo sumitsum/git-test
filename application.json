@@ -12,6 +12,9 @@
   "unpublishedCustomJSLibs": [
     {
       "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    },
+    {
+      "uidString": "imageCompression_https://cdn.jsdelivr.net/npm/browser-image-compression@2.0.0/dist/browser-image-compression.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
